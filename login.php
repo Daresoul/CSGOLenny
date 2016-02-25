@@ -20,7 +20,7 @@ class user
 
     public function signIn ()
     {
-        require_once 'openid.php';
+        require_once 'lib/openid.php';
         $openid = new LightOpenID($this->domain);// put your domain
         if(!$openid->mode)
         {

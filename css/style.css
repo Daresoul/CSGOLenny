@@ -1,5 +1,5 @@
 body	{
-	background-image: url("./img/bg.jpg");	
+	background-image: url("../img/bg.png");
 	color: #000305;
 	background-size: cover;
 	background-attachment: fixed;
@@ -116,10 +116,10 @@ a:link, a:visited{
 }
 
 .fbcardContainer{
-	perspective: 500;
+	perspective: 500px;
 }
 .fbCard{							
-	background-image: url("./img/fb.png");
+	background-image: url("../img/fb.png");
 	background-repeat: no-repeat;
 	background-size: cover;
 	width: 74px;
@@ -136,10 +136,10 @@ a:link, a:visited{
 	transform: rotateY(180deg);
 }
 .igcardContainer{
-	perspective: 500;
+	perspective: 500px;
 }
 .igCard{
-	background-image: url("./img/ig.png");
+	background-image: url("../img/ig.png");
 	background-size:100%;
 	width: 82px;
 	height: 82px ;
@@ -229,7 +229,7 @@ a:link, a:visited{
 }
 
 .shoppingcart{
-	background-image: url("./img/cart.png");
+	background-image: url("../img/cart.png");
 	background-repeat: no-repeat;
 	background-size: cover;
 	width: 150px;
@@ -243,7 +243,7 @@ a:link, a:visited{
 }
 
 .pb{
-	background-image: url("./img/pb.jpg");
+	background-image: url("../img/pb.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	width: 190px;
