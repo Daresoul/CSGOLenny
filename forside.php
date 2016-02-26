@@ -14,7 +14,7 @@ require('include/header.php')
 				
 					
 					
-						<p> Lorem Ipsum </p>
+						<p> Hello World </p>
 					
 					
 					<content>
