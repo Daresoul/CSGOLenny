@@ -1,6 +1,6 @@
 <?php 
 	
-	$pagetitle = 'Lennyflip';
+	$pagetitle = 'Lennyflip OMG';
 
 
 

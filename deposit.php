@@ -9,7 +9,7 @@ require('include/header.php')
 			<div class="tekcontent">
 				<article class="topContent">
 					<header>
-						<h2>Deposit</h2>
+						<h2>Deposit2</h2>
 					</header>
 					
 					<footer>
